@@ -205,6 +205,9 @@
 
 <a name="papers-oslt"></a>
 ## Open Set Learning Theory
+##### 2022
+- [Understanding Open-Set Recognition by Jacobian Norm of Representation](https://arxiv.org/abs/2209.11436). Jaewoo Park, Hojin Park, Eunju Jeong, Andrew Beng Jin Teoh. (**Arxiv, 2022**)
+
 ##### 2021
 - [Learning Bounds for Open-Set Learning](https://arxiv.org/abs/2106.15792). Zhen Fang, Jie Lu, Anjin Liu, Feng Liu, Guangquan Zhang. (**ICML 2021**). [[code]](https://github.com/Anjin-Liu/Openset_Learning_AOSR).
 
